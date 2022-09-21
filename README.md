@@ -1,3 +1,12 @@
+# TDD Katas log
+
+[![CI](https://github.com/edmolima/tdd-katas-log/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/edmolima/tdd-katas-log/actions/workflows/ci.yml)
+![GitHub](https://img.shields.io/github/license/edmolima/tdd-katas-log)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+![Coverage](coverage-badge.svg)
+
+This repository is some experiences and katas for learn TDD. There are many dojos and katas on the internet and the goal is that according to what I do over time, I catalog here my solutions over time.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -8,15 +17,6 @@
   - [Requirements](#requirements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# TDD Katas log
-
-[![CI](https://github.com/edmolima/tdd-katas-log/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/edmolima/tdd-katas-log/actions/workflows/ci.yml)
-![GitHub](https://img.shields.io/github/license/edmolima/tdd-katas-log)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![Coverage](coverage-badge.svg)
-
-This repository is some experiences and katas for learn TDD. There are many dojos and katas on the internet and the goal is that according to what I do over time, I catalog here my solutions over time.
 
 ## Quick Start
 
