@@ -1,0 +1,28 @@
+{
+    "workbench.startupEditor": "none",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontLigatures": false,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "MesloLGS Nerd Font",
+    "editor.inlineSuggest.enabled": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "editor.formatOnSave": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.debug": true,
+    "eslint.lintTask.enable": true
+  }
