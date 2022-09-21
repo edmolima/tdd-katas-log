@@ -1,4 +1,4 @@
-import { fizzBuzz } from './fizzbuzz'
+import { fizzBuzz } from './fizzBuzz'
 
 describe('FizzBuzz', () => {
   it('should replace fizz whenever there is a number that is divisible by 3', () => {
